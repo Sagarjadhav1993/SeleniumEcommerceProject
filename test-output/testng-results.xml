@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="12" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T15:36:11 IST" name="Suite" finished-at="2024-06-12T15:38:19 IST" duration-ms="128722">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T15:36:11 IST" name="Test_All" finished-at="2024-06-12T15:38:19 IST" duration-ms="128722">
+      <class name="testcases.SearchPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:37:38 IST" name="setup" finished-at="2024-06-12T15:37:47 IST" duration-ms="8466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyClickOnSearchBox()[pri:1, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:37:47 IST" name="verifyClickOnSearchBox" finished-at="2024-06-12T15:37:47 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnSearchBox -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:37:47 IST" name="teardown" finished-at="2024-06-12T15:37:48 IST" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:37:48 IST" name="setup" finished-at="2024-06-12T15:37:57 IST" duration-ms="8362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySearchProduct()[pri:2, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:37:57 IST" name="VerifySearchProduct" finished-at="2024-06-12T15:38:03 IST" duration-ms="6797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:38:03 IST" name="teardown" finished-at="2024-06-12T15:38:04 IST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:38:04 IST" name="setup" finished-at="2024-06-12T15:38:12 IST" duration-ms="7395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySearchResult()[pri:3, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:38:12 IST" name="VerifySearchResult" finished-at="2024-06-12T15:38:19 IST" duration-ms="6998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchResult -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.SearchPageTest@1a6d8329]" started-at="2024-06-12T15:38:19 IST" name="teardown" finished-at="2024-06-12T15:38:19 IST" duration-ms="827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.SearchPageTest -->
+      <class name="testcases.HomePageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:36:10 IST" name="loadConfig" finished-at="2024-06-12T15:36:11 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:36:11 IST" name="setup" finished-at="2024-06-12T15:36:19 IST" duration-ms="8008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogo()[pri:1, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:36:19 IST" name="verifyLogo" finished-at="2024-06-12T15:36:19 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:36:19 IST" name="teardown" finished-at="2024-06-12T15:36:19 IST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:36:19 IST" name="setup" finished-at="2024-06-12T15:36:30 IST" duration-ms="10838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchBox()[pri:2, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:36:30 IST" name="verifySearchBox" finished-at="2024-06-12T15:36:31 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBox -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:36:31 IST" name="teardown" finished-at="2024-06-12T15:36:32 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testcases.HomePageTest@2794eab6]" started-at="2024-06-12T15:38:19 IST" name="afterSuite" finished-at="2024-06-12T15:38:20 IST" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.HomePageTest -->
+      <class name="testcases.AddToCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:36:32 IST" name="setup" finished-at="2024-06-12T15:36:45 IST" duration-ms="13180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyClickOnAddtoCart()[pri:1, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:36:45 IST" name="verifyClickOnAddtoCart" finished-at="2024-06-12T15:36:57 IST" duration-ms="12132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnAddtoCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:36:57 IST" name="teardown" finished-at="2024-06-12T15:36:58 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:36:58 IST" name="setup" finished-at="2024-06-12T15:37:03 IST" duration-ms="5133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCountInMyCart()[pri:2, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:37:03 IST" name="verifyCountInMyCart" finished-at="2024-06-12T15:37:16 IST" duration-ms="12540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCountInMyCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:37:16 IST" name="teardown" finished-at="2024-06-12T15:37:16 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:37:16 IST" name="setup" finished-at="2024-06-12T15:37:26 IST" duration-ms="9433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyShoppingInMyCart()[pri:3, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:37:26 IST" name="verifyShoppingInMyCart" finished-at="2024-06-12T15:37:38 IST" duration-ms="11855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShoppingInMyCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.AddToCartTest@20140db9]" started-at="2024-06-12T15:37:38 IST" name="teardown" finished-at="2024-06-12T15:37:38 IST" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.AddToCartTest -->
+    </test> <!-- Test_All -->
+  </suite> <!-- Suite -->
+</testng-results>
